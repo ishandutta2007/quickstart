@@ -5,7 +5,9 @@
 // (function (global) {
 //   System.config({
 //     packages: {
-//       // add packages here
+//       mystartup_commons: {
+//         defaultExtension: 'js'
+//       }
 //     }
 //   });
 // })(this);
